@@ -4,7 +4,7 @@
 
 import React, { useCallback, useState } from 'react';
 import { StatusBar, StyleSheet, View } from 'react-native';
-import HoldToStartButton from '../components/HoldToStartButton';
+import HoldToStartButton from '../components/holdtostart/HoldToStartButton';
 
 const IDLE_BACKGROUND = '#FAFAFC';
 
